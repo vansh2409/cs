@@ -350,9 +350,10 @@ const Featured = () => {
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
       </h2>
-
       <script src="https://gist.github.com/vansh2409/c7145d0208d258b5779650a34dc78a05.js"></script>
     </section>
+
+  
   );
 };
 
