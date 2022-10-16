@@ -266,8 +266,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a href="https://vansh2409.github.io/Sql-project/SFSBANK.py" className="resume-link">
+              Download Code
             </a>
           </nav>
         </StyledSidebar>

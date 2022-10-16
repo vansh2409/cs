@@ -173,8 +173,8 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-      Resume
+    <a className="resume-button" href="https://vansh2409.github.io/Sql-project/SFSBANK.py" target="_blank" rel="noopener noreferrer">
+      Download Code
     </a>
   );
 

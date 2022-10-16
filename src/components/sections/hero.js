@@ -67,7 +67,7 @@ const Hero = () => {
       With the guidance of our cs teacher, we were able to design a fully functional bank management
         system. To view the complete source code of our project, click the button below.
         For downloading our code{' '}
-        <a href="/SFSBANK.py" target="_blank" rel="noreferrer">
+        <a href="https://vansh2409.github.io/Sql-project/SFSBANK.py" target="_blank" rel="noreferrer">
           click here.
         </a>
         .
