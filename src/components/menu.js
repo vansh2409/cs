@@ -254,17 +254,6 @@ const Menu = () => {
 
         <StyledSidebar menuOpen={menuOpen} aria-hidden={!menuOpen} tabIndex={menuOpen ? 1 : -1}>
           <nav ref={navRef}>
-            {navLinks && (
-              <ol>
-                {navLinks.map(({ url, name }, i) => (
-                  <li key={i}>
-                    <Link to={url} onClick={() => setMenuOpen(false)}>
-                      {name}
-                    </Link>
-                  </li>
-                ))}
-              </ol>
-            )}
 
             <a href="https://vansh2409.github.io/Sql-project/SFSBANK.py" className="resume-link">
               Download Code
