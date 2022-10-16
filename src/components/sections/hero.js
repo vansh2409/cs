@@ -68,7 +68,7 @@ const Hero = () => {
         system. To view the complete source code of our project, click the button below.
         For downloading our code{' '}
         <a href="https://vansh2409.github.io/Sql-project/SFSBANK.py" target="_blank" rel="noreferrer">
-          click here.
+          click here
         </a>
         .
       </p>
