@@ -351,7 +351,7 @@ const Featured = () => {
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
       </h2>
-      <CodesSnippets embedScript={"Script Tag"} />
+      <CodesSnippets embedScript={"Script Tag"}>
 </section>
 
   
