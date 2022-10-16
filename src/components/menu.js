@@ -115,44 +115,6 @@ const StyledSidebar = styled.aside`
     text-align: center;
   }
 
-  ol {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    width: 100%;
-
-    li {
-      position: relative;
-      margin: 0 auto 20px;
-      counter-increment: item 1;
-      font-size: clamp(var(--fz-sm), 4vw, var(--fz-lg));
-
-      @media (max-width: 600px) {
-        margin: 0 auto 10px;
-      }
-
-      &:before {
-        content: '0' counter(item) '.';
-        display: block;
-        margin-bottom: 5px;
-        color: var(--green);
-        font-size: var(--fz-sm);
-      }
-    }
-
-    a {
-      ${({ theme }) => theme.mixins.link};
-      width: 100%;
-      padding: 3px 20px 20px;
-    }
-  }
-
-  .resume-link {
-    ${({ theme }) => theme.mixins.bigButton};
-    padding: 18px 50px;
-    margin: 10% auto 0;
-    width: max-content;
-  }
 `;
 
 const Menu = () => {
