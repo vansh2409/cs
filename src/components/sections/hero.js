@@ -65,10 +65,10 @@ const Hero = () => {
     <>
       <p>
       With the guidance of our cs teacher, we were able to design a fully functional bank management
-        system. To download the complete source code of our project, click the button bellow and your download
-        will start soon{' '}
+        system. To view the complete source code of our project, click the button below.
+        For downloading our code{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          or click here.
+          click here.
         </a>
         .
       </p>
