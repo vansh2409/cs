@@ -58,7 +58,7 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Welcome, to the source code of</h1>;
+  const one = <h1>Welcome to the source code of</h1>;
   const two = <h2 className="big-heading">our cs project;</h2>;
   const three = <h3 className="big-heading">Bank Management System</h3>;
   const four = (
