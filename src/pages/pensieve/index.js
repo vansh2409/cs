@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { Layout } from '@components';
+import { IconBookmark } from '@components/icons';
 
 const StyledMainContainer = styled.main`
   & > header {
