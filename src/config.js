@@ -1,14 +1,14 @@
 module.exports = {
-  email: 'Csproject@gmail.com',
+  email: 'Made by Arsh, Hilal & Vansh',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://gist.github.com/vansh2409/c7145d0208d258b5779650a34dc78a05',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://vansh2409.github.io/Sql-project/SFSBANK.py',
     },
   ],
 
